@@ -1,4 +1,5 @@
-{  "homepage": "https://github.com/vineethkumar12/DNR-TRICKS.git",
+{
+  "homepage": "https://github.com/vineethkumar12/DNR-TRICKS.git",
   "name": "dns-tricks",
   "private": true,
   "version": "0.1.0",
@@ -20,6 +21,7 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
     "autoprefixer": "^10.6.1",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.28",
     "tailwindcss": "^3.4.13",
     "vite": "^5.4.0"
